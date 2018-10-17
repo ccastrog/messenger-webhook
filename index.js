@@ -106,7 +106,7 @@ function handleMessage(sender_psid, received_message) {
               {
                 "type": "postback",
                 "title": "Si!",
-                "payload": "yes",
+                "payload": "si",
               },
               {
                 "type": "postback",
